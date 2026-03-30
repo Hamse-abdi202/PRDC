@@ -31,4 +31,5 @@ func main() {
 
 	slog.Info("✅ Application is runing on port :5000")
 	r.Run(fmt.Sprintf(":%s", config.Port))
+slog.Info("ilwaad feature added")
 }
